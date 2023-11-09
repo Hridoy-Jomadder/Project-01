@@ -1,9 +1,11 @@
-  =>  Template Name    : SEO Master - SEO Agency Website Template
+=>  Author Website   : https://hridoy-jomadder.github.io/portfolio
 
-  =>  Template Link    : 
+=>  Template Name    : SEO Master - SEO Agency Website Template
 
-  =>  Template License : 
+=>  Template Link    : 
 
-  =>  Template Author  : Hridoy Jomadder
+=>  Template License : 
 
-  =>  Author Website   : https://hridoy-jomadder.github.io/Project-01
+=>  Template Author  : Hridoy Jomadder
+
+=>  Project-1 Website: https://hridoy-jomadder.github.io/Project-01
